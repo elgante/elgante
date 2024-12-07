@@ -1,0 +1,93 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/java.png"
+    },
+    {
+      "id": "2",
+      "src": "./img/spring.png"
+    },
+    {
+      "id": "3",
+      "src": "./img/csharp1.jpg"
+    },
+    {
+      "id": "4",
+      "src": "./img/dotnet.png"
+    },
+    {
+      "id": "5",
+      "src": "./img/blazor.png"
+    },
+    {
+      "id": "6",
+      "src": "./img/html.png"
+    },
+    {
+      "id": "7",
+      "src": "./img/css.png"
+    },
+    {
+      "id": "8",
+      "src": "./img/js.png"
+    },
+    {
+      "id": "9",
+      "src": "./img/react.png"
+    },
+    {
+      "id": "10",
+      "src": "./img/postgres.png"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Overlook Hotel",
+      "description": "Overlook Hotel website assignment for the course Responsive Web Development. Used: HTML, CSS, Bootstrap. Group project.",
+      "link": "https://overlookhotel.vercel.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Center Sprog",
+      "description": "3-tier distributed system: Blazor Server, C#, Java, PostgreSQL. Frameworks: .NET, Spring. Communication: REST, gRPC. Group project.",
+      "link": "https://youtu.be/oUpRkwiyLQY"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "elgante.dev",
+      "description": "HTML, CSS, JavaScript, React, EmailJS to demonstrate dedication to ongoing learning and professional development. Personal project.",
+      "link": "https://github.com/elgante/elgante.git"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique.",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
