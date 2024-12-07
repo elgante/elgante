@@ -62,6 +62,13 @@
       "title": "elgante.dev",
       "description": "HTML, CSS, JavaScript, React, EmailJS to demonstrate dedication to ongoing learning and professional development. Personal project.",
       "link": "https://github.com/elgante/elgante.git"
+    },
+    {
+      "id": "4",
+      "src": "./img/pokedex8.png",
+      "title": "Pokedex assignment",
+      "description": "Routes, axios, HTML, CSS, JavaScript, React. Personal project.",
+      "link": "https://pokedex-nine-gamma-91.vercel.app"
     }
   ],
   "testimonial": [

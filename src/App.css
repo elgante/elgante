@@ -444,7 +444,8 @@ p {
   gap: 21px;
 }
 .portfolio--section--container {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   /*display: grid;  Switch to grid layout */
   /* grid-template-columns: repeat(4, 1fr); /* Create 4 equal-width columns */
   /* or display flex and flex-wrap: wrap;, plus adjustemnets to portfolio card for more portfolio projects*/
