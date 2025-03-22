@@ -33,7 +33,7 @@ export default function HeroSection() {
           spy={true}
           smooth={true}
           duration={800}
-          className="btn btn-primary"
+          className="btn btn-github"
           onClick={scrollToContact}
         >
           Get In Touch
