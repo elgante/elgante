@@ -6,8 +6,8 @@ export default function MySkills() {
       <div className="portfolio--container">
         <h1 className="skills-section--heading">My Skills</h1>
         <p className="hero--section-description">
-          Here are some of the languages, frameworks and tools which I am
-          acquainted with:
+          Here are some of the languages, frameworks and tools which I had hands on experience 
+         in previous semesters:
         </p>
       </div>
       <div className="skills--section--container">
