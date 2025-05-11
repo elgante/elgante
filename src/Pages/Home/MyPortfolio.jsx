@@ -17,7 +17,7 @@ export default function MyPortfolio() {
         <div>
           <button className="btn btn-github">
             <a
-              href="https://github.com/PinkCatCodes"
+              href="https://github.com/elgante"
               target="_blank"
               style={{ color: " white" }}
             >
