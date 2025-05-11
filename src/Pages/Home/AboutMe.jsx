@@ -23,9 +23,9 @@ export default function AboutMe() {
               <br /> At VIA University College, I have had hands-on experience
               with three-tier architecture using Blazor, .NET, and Java Spring
               Boot while working on the 3rd-semester project. Just to name a
-              few. Currently learning C, DevOps, React and JavaScript. I'm
-              excited about the opportunity to bring my dedication to an
-              internship or a student job where we can learn and grow together.
+              few. Currently learning Apollo Server, Graphql, React and TypeScript. I'm
+              excited about the opportunity to bring my dedication to a
+              student job where we can learn and grow together.
             </p>
           </p>
         </div>
