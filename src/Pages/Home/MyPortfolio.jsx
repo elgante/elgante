@@ -10,7 +10,7 @@ export default function MyPortfolio() {
             {" "}
             I love bringing ideas to life, whether it's through my own efforts
             or with the help of fellow enthusiasts. <br />
-            Take a peek at my latest projects—I'm really excited to share them
+            Take a peek at my latest projects - I'm really excited to share them
             with you!
           </p>
         </div>
