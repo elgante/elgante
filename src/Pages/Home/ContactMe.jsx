@@ -49,7 +49,7 @@ export default function ContactMe() {
             {" "}
             <PhoneIcon />{" "}
             <span className="phone-number" style={{ marginLeft: "0.5rem" }}>
-              +45 52 52 88 33
+              +45 52 52 88 32
             </span>
           </h5>
           <h5 className="mb-3">
